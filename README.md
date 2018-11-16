@@ -1,24 +1,20 @@
 # README
+>This is a Ruby on Rails 5 Application that allows ussers to create their own portfolios
+###features
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+-Real Time Chat Engine for Comments
+-Blog
+-Portfolio
+-Drag and Drop Interface
 
-Things you may want to cover:
+### Code Example
 
-* Ruby version
+```ruby
+def my_great_method
+	puts "here it is"
+end
+```
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```javascript
+alert('Hi There')
+```
